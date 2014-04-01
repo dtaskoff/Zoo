@@ -1,0 +1,14 @@
+* simulate(interval_of_time, period)
+* will it mate
+
+tests:
+
+* init------------- L
+* daily incomes---- A
+* daily expenses--- C
+* see_animals------ H
+* accommodate------ O
+* move to habitat-- O
+
+method plus test
+*** will it mate--- danko
